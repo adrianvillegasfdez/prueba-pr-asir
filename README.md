@@ -16,3 +16,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 **¿Quién eres?, ¿qué asignatura te gusta más? y ¿por qué?**
 
 * [lmgv](files/lmgv.md)
+* [jsr](files/jsr.md)
