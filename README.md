@@ -17,3 +17,9 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [lmgv](files/lmgv.md)
 * [lcf](files/lcf.md)
+* [chr](files/chr.md)
+* [jos](files/jos.md)
+* [cssm](files/cssm.md)
+* [anderpr](files/anderpr.md)
+* [Dpr](files/dpr.md)
+
