@@ -16,8 +16,11 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 **¿Quién eres?, ¿qué asignatura te gusta más? y ¿por qué?**
 
 * [lmgv](files/lmgv.md)
+* [mtr](files/mtr.md)
+* [jsr](files/jsr.md)
+* [hca](files/hca.md)
 * [jcg](files/jcg.md)
-* [hfj.md](files/hfj.md)
+* [hfj](files/hfj.md)
 * [mfdc](files/mfdc.md)
 * [lcf](files/lcf.md)
 * [chr](files/chr.md)
@@ -26,3 +29,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [anderpr](files/anderpr.md)
 * [Dpr](files/dpr.md)
 * [Arm](files/arm.md)
+* [mariocg](files/mariocg.md)
+* [Cmb](files/cmb.md)
