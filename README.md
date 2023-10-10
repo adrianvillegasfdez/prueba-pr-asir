@@ -20,7 +20,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [jsr](files/jsr.md)
 * [hca](files/hca.md)
 * [jcg](files/jcg.md)
-* [hfj.md](files/hfj.md)
+* [hfj](files/hfj.md)
 * [mfdc](files/mfdc.md)
 * [lcf](files/lcf.md)
 * [chr](files/chr.md)
